@@ -1,0 +1,9 @@
+#nav-bar {
+    position: fixed;
+    top: 0;
+    left: 800px;
+    display: flex;
+  }
+  #nav-bar .nav-link li{
+    display: inline-block;
+  }
